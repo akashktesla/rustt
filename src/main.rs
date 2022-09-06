@@ -1,4 +1,4 @@
-mod test;
+mod enumt;
 fn main() {
-    test::main();
+   enumt::main()
 }
